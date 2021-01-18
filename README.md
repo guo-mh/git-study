@@ -1,5 +1,4 @@
-#转自  [renyuns](https://github.com/renyuns/learngit.git)
-<a href="https://github.com/renyuns/learngit.git" target="_blank">renyuns</a>
+#转自  [renyuns](https://github.com/renyuns/learngit.git){:tatget='_blam'}
 #####  一、Git 和 SVN 的区别
 
 |         |  类型  |                             描述                             |
