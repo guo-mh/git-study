@@ -1,4 +1,4 @@
-###转自https://github.com/renyuns/learngit.git
+###转自[renyuns](https://github.com/renyuns/learngit.git)
 #####  一、Git 和 SVN 的区别
 
 |         |  类型  |                             描述                             |
